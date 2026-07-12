@@ -1,0 +1,6 @@
+{
+  "name": "AssetFlow",
+  "description": "A dark-themed IT & organizational asset management admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
